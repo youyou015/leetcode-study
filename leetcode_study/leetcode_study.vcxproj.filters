@@ -18,6 +18,15 @@
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="1-two-sum.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="2-add-two-numbers.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="50-pow-x-n.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
