@@ -154,6 +154,7 @@
     <ClInclude Include="1-two-sum.h" />
     <ClInclude Include="2-add-two-numbers.h" />
     <ClInclude Include="50-pow-x-n.h" />
+    <ClInclude Include="591-tag-validator.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>

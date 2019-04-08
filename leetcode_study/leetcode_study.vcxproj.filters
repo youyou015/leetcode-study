@@ -27,6 +27,9 @@
     <ClInclude Include="50-pow-x-n.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="591-tag-validator.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
