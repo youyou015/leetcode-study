@@ -153,6 +153,8 @@
   <ItemGroup>
     <ClInclude Include="1-two-sum.h" />
     <ClInclude Include="2-add-two-numbers.h" />
+    <ClInclude Include="3-longest-substr-no-repeat.h" />
+    <ClInclude Include="5-longest-palindromic-substr.h" />
     <ClInclude Include="50-pow-x-n.h" />
     <ClInclude Include="591-tag-validator.h" />
     <ClInclude Include="pch.h" />

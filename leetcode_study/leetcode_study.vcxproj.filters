@@ -30,6 +30,12 @@
     <ClInclude Include="591-tag-validator.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="3-longest-substr-no-repeat.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="5-longest-palindromic-substr.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
